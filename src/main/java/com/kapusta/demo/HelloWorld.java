@@ -1,7 +1,7 @@
 package com.kapusta.demo;
 
-import com.kapusta.annotation.GetEndpoint;
 import com.kapusta.annotation.Restful;
+import com.kapusta.annotation.endpoints.GetEndpoint;
 
 @Restful
 public class HelloWorld {
